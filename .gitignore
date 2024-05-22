@@ -1,0 +1,6 @@
+*.csproj
+Logs
+Library
+Temp
+CustomCloudAssets
+TextToolDatas
